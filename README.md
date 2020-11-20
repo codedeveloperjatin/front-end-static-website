@@ -1,4 +1,4 @@
-# front-end-static-website
+# Front-end-static-website
 
 Frontend Static webpage
 Hover animations 
